@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-    background-image: url("bg.jpg");
+    background-image: url("img/bg.jpg");
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
@@ -252,7 +252,7 @@ left: 20px;
 }
 
 .black-block {
-    background-image: url("fon2.jpg");
+    background-image: url("img/fon2.jpg");
     padding: 80px 0;
 }
 
@@ -321,7 +321,7 @@ left: 20px;
 }
 
 .menu {
-    background-image: url("m_budnifon.jpg");
+    background-image: url("img/m_budnifon.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 100px;
